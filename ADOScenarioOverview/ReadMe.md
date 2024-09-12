@@ -32,6 +32,7 @@ This project generates comprehensive Scenario reports for contributors and deliv
 3. **Build the Project**
     ```bash
     dotnet build
+    or build the project from VS
     ```
 
 ## Configuration
