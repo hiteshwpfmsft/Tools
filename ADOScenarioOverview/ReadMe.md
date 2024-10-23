@@ -46,6 +46,7 @@ The **ADO Scenario Overview** project generates comprehensive scenario reports f
 3. **Build the Solution**
     ```bash
     dotnet build
+    or build the project from VS
     ```
 
 ## Configuration
